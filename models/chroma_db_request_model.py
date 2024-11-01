@@ -1,0 +1,1 @@
+#define a class which structures ur request and response to and from chromadb
